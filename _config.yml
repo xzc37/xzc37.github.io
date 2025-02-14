@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "u202211026@hust.edu.cn" 
 
@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "SCP000"
+  zhihu            : "xzc-76-45"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
